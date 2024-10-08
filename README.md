@@ -1,2 +1,4 @@
-# c-_tutorial
-My C++ learning journey
+# C++ programming language tutorial
+## My C++ learning journey
+## Topics
+
